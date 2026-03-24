@@ -1,0 +1,1 @@
+# python-Check-Whether-a-Number-is-Prime-or-Not
